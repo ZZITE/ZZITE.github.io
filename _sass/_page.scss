@@ -12,13 +12,13 @@
         -moz-opacity:0.5;
         -khtml-opacity: 0.5;
         opacity: 0;width: 1140px; box-sizing: border-box; margin: 0 auto;filter:alpha(opacity=50);
-        }
-.page {
+       }
+    .page {
         transform: translate(0,0);
         transition:all .5s ease-in .2s;
 
         }
-.page:hover {
+    .page:hover {
         filter:alpha(opacity=50);
         -moz-opacity:0.5;
         -khtml-opacity: 0.5;
@@ -154,7 +154,7 @@
             }
         }
     }
-}
+
 @media screen and (max-width:1200px) and (min-width: 770px) {
     .page {
         width: 90%;
