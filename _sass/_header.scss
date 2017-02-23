@@ -18,7 +18,6 @@ header {
         line-height: 52px;
         .brand {
             font-size: 18px;
-
         }
         small {
             margin-left: 26px;
@@ -44,7 +43,7 @@ header {
                         padding: 0 10px;
                         height: 52px;
                         &:hover {
-                            background-color: #a1a3a6;
+                            background-color: #000;
                         }
                         i {
                             margin-right: 5px;
@@ -52,7 +51,7 @@ header {
                     }
                     >.active {
                         color: #fff;
-                        background-color: #987165;
+                        background-color: #000;
                         box-shadow: 0 25px 25px -15px rgba(255,255,255,0.93);
                     }
                 }
@@ -68,7 +67,6 @@ header {
             line-height: 50px;
             .brand {
                 font-size: 16px;
-                color: #4b2f3d;
             }
             small {
                 margin-left: 15px;
