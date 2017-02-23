@@ -9,7 +9,9 @@ tags: 记录 闲谈
 * content
 {:toc}
 
-于知乎偶然看得答主 [高浩阳](https://www.zhihu.com/people/gaohaoyang/answers) 展示的个人博客，并在其 [Github](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README-zh-cn.md) 源码仓库，根据所提供的使用方法搭建本博客。有兴趣的朋友可以点击上述链接查看。再次感谢开源，也希望有一天自己有能力独自重构此博客。
+###简介
+这是我的第一个博客，用于记录我的学习之路以及分享我想分享的日常。希望在一点点更新与重构的过程中，享受到更多前端带来的快乐。
+如果能通过博客再钓到妹子，那就再好不过了≖‿≖✧
 
 
 
@@ -46,3 +48,7 @@ excerpt_separator: "\n\n\n\n"
 使用 markdown 语法写文章。
 
 代码风格与 GitHub 上 README 或 issue 中的一致。使用3个\`\`\`的方式。
+
+### 关于
+
+该博客模版出自 [HYG.](https://github.com/Gaohaoyang) 已在footer部分作声明。
