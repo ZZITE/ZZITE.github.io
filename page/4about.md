@@ -11,22 +11,13 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
-常愉快的过程。共同加油！
-
-* 1
-* 2
-* 3
-* 4
-* 5
-* 6
 
 ## 联系我
 
 * GitHub：[ZZITE](https://github.com/ZZITE)
 * email：m15659856340@163.com
 * [Weibo](http://weibo.com/zzite)
+
 
 ## 关于本站
 
