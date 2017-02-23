@@ -1,4 +1,4 @@
-# 关于这个简洁明快的博客主题 🤘🤘🤘
+# 关于这个博客主题
 
 [Theme designed by HyG](https://github.com/Gaohaoyang/gaohaoyang.github.io) 
 
@@ -6,4 +6,4 @@
 
 ## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE)
