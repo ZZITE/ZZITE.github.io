@@ -14,9 +14,9 @@
      */
     var demoContent = [
         {
-            demo_link: 'http://htmlpreview.github.io/?https://github.com/ZZITE/Baidu_IFE/blob/master/task_6/task_6.html',
+            demo_link: 'http://htmlpreview.github.io/?https://github.com/ZZITE/Baidu_IFE/blob/master/2016/task_6/task_6.html',
             img_link: 'http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_2.jpg',
-            code_link: 'https://github.com/ZZITE/Baidu_IFE/blob/master/task_6/task_6.html',
+            code_link: 'https://github.com/ZZITE/Baidu_IFE/tree/master/2016/task_6',
             title: '模拟报纸排版',
             core_tech: 'HTML CSS',
             description: '通过HTML及CSS模拟报纸排版,任务详情见 <a href ="http://ife.baidu.com/2016/task/detail?taskId=6">这里</a>。'
