@@ -15,7 +15,7 @@ type: page
 ## 联系我
 
 * GitHub：[ZZITE](https://github.com/ZZITE)
-* email：m15659856340@163.com
+* email：zziteqaq@163.com
 * [Weibo](http://weibo.com/zzite)
 
 
