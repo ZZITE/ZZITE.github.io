@@ -3,7 +3,7 @@ layout: post
 title:  "自定义checkbox,radio样式"
 date:   2017-02-24 21:20:06
 categories: 前端技术
-tags: CSS Baidu_ife 
+tags: CSS Baidu_ife 笔记
 ---
 
 * content
