@@ -43,6 +43,10 @@ type: page
     - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
 - [http://regexr.com/](http://regexr.com/)
 
+* [日本色](http://nipponcolors.com/)  [中国色](http://zhongguose.com/)
+
+    两个超好看的色谱网站
+
 ## 编程语言
 
 ### JavaScript
