@@ -7,7 +7,7 @@
 
 # Site settings
 title: ZZITE
-brief-intro: 前端新人
+brief-intro: blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ZZITE.github.io" # the base hostname & protocol for your site
 
