@@ -3,7 +3,7 @@ layout: post
 title:  "第一篇博客"
 date:   2017-02-22 21:17:00
 categories: 日常
-tags: 记录 闲谈 
+tags: 碎碎念 
 ---
 
 * content

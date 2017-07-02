@@ -3,7 +3,7 @@ layout: post
 title:  "关于JavaScript计时器的工作原理"
 date:   2017-03-07 01:30:00
 categories: 前端技术
-tags: JavaScript 笔记
+tags: JavaScript
 ---
 
 * content
