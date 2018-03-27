@@ -3,7 +3,7 @@ layout: post
 title:  "leetcode-note"
 date:   2018-01-18 18:30:00
 categories: 前端技术
-tags: javascript
+tags: JavaScript
 ---
 
 * content
