@@ -3,7 +3,7 @@ layout: post
 title:  "JavaScript常用数组方法"
 date:   2017-6-27 18:30:00
 categories: 前端技术
-tags: javascript
+tags: JavaScript
 ---
 
 * content
